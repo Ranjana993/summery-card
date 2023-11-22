@@ -200,7 +200,10 @@ p {
     -ms-border-radius: 25px;
     -o-border-radius: 25px;
 }
-
+.btn:hover{
+    background-color: lightslategray;
+    cursor: pointer;
+}
 button {
     background-color: transparent;
     border: none;
